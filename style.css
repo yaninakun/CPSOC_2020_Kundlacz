@@ -28,3 +28,10 @@ a{
 a:hover{
     color:red;
 }
+
+.taula{
+    border: 1px solid  #c2c2c2;
+    width: 100%;
+    
+    
+}
